@@ -6,9 +6,16 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.6.1",
+    "install": "^0.13.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-facebook": "^9.0.12",
+    "react-google-button": "^0.7.2",
+    "react-npm": "^2.6.1",
+    "react-router-dom": "^5.3.4",
     "react-scripts": "5.0.1",
+    "react-social-login-buttons": "^3.9.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
